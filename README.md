@@ -5,7 +5,7 @@
 ``` bash
 alias k='kubectl'
 alias kg='k get'
-alias kcns='k config set-context --current --namespace'
+alias kxns='k config set-context --current --namespace'
 ```
 
 ## kubernates commands
